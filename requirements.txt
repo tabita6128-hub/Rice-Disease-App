@@ -1,0 +1,5 @@
+streamlit
+pillow
+numpy
+tensorflow==2.20.0
+google-genai
